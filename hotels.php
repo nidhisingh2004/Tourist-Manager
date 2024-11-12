@@ -383,7 +383,7 @@ if(!isset($_SESSION["username"]))
 						</div>
 							
 						<div class="footerText">
-							CUSAT, Cochin,<br> Kerala,India
+							<br> Jalandhar,India
 						</div>
 				
 						<div class="footerText">
@@ -427,7 +427,7 @@ if(!isset($_SESSION["username"]))
 					<div class="col-sm-12">
 					<div class="copyrightContainer">
 						<div class="copyright">
-						Copyright &copy; 2021 Alisha Anand
+						Copyright &copy; 2024 Nidhi Kumari
 						</div>
 					</div>
 					</div>

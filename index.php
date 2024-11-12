@@ -217,7 +217,7 @@
 						</div>
 							
 						<div class="footerText">
-							CUSAT,Cochin <br> Jalandhar, India
+							<br> Jalandhar, India
 						</div>
 				
 						<div class="footerText">
